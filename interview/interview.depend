@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1681289083 source:d:\codeblocks\interview\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<vector>
+	<string>
+	<algorithm>
+
